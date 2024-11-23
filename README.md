@@ -12,21 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/>
   &nbsp; &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/>
-  <!-- 
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg" alt="C#" width="40" height="40"/>
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="45" height="40"/>
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="55" height="40"/>
-  &nbsp; &nbsp; &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://nodejs.org/static/logos/nodejsDark.svg">
-    <img src="https://nodejs.org/static/logos/nodejsLight.svg" alt="NodeJS" width="120" height="40"/>
-  </picture>
-  -->
 </div>
 
 <!-- Projects -->
